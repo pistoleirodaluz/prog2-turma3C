@@ -126,3 +126,8 @@ body {
         border-radius: 0 40px 0 0;
     }
 }
+section {
+    background-image: url("sukuna-domain-expansion.gif");
+    background-repeat: repeat;
+    background-size:200px 400px ;
+}
